@@ -1,0 +1,7 @@
+name: RP
+version: '${version}'
+main: ru.laimcraft.rp.Core
+api-version: '1.21'
+load: STARTUP
+authors: [IsaevIsa05]
+website: https://github.com/isaevisa05
